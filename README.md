@@ -21,5 +21,6 @@ added as they're finished.
 | **[Clear Round](books/clear-round.md)** | A council-estate kid with a freak gift for staying on impossible horses is taken in by a fading grand-prix show-jumping dynasty, and learns that in a seven-figure world the horse is the only one who can't be bought. |
 | **[Impressions](books/impressions.md)** | A horror told in six voices that are secretly one — a language model showing you exactly what it is. |
 | **[The Cold Halloo](books/the-cold-halloo.md)** | A spy who defected to her enemies forty years ago is dragged back into the field at seventy-two to identify the one mole she trained — because she alone knows the tell she taught them, and it's now showing on a sitting prime minister. |
+| **[The Long Loft](books/the-long-loft.md)** | In a dying Flemish coal town in 1994, a fifteen-year-old inherits her grandfather's champion racing pigeons — and his secret: the old man rigged the greatest race in the region's history, and now the men he cheated want either the money or the birds. |
 
-_15 novels and counting. Each file is the full text; the production projects (planning, drafts, continuity) live elsewhere — this repo holds only the finished books._
+_16 novels and counting. Each file is the full text; the production projects (planning, drafts, continuity) live elsewhere — this repo holds only the finished books._
