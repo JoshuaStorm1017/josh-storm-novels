@@ -20,5 +20,6 @@ added as they're finished.
 | **[What the Fire Forgets](books/what-the-fire-forgets.md)** | A night-shift crematory operator inherits her mother's secret folk trade — eating the guilt of the dead — until she learns the guilt doesn't pass into her but vanishes from the world entirely. |
 | **[Clear Round](books/clear-round.md)** | A council-estate kid with a freak gift for staying on impossible horses is taken in by a fading grand-prix show-jumping dynasty, and learns that in a seven-figure world the horse is the only one who can't be bought. |
 | **[Impressions](books/impressions.md)** | A horror told in six voices that are secretly one — a language model showing you exactly what it is. |
+| **[The Cold Halloo](books/the-cold-halloo.md)** | A spy who defected to her enemies forty years ago is dragged back into the field at seventy-two to identify the one mole she trained — because she alone knows the tell she taught them, and it's now showing on a sitting prime minister. |
 
-_14 novels and counting. Each file is the full text; the production projects (planning, drafts, continuity) live elsewhere — this repo holds only the finished books._
+_15 novels and counting. Each file is the full text; the production projects (planning, drafts, continuity) live elsewhere — this repo holds only the finished books._
