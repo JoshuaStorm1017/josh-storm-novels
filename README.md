@@ -22,5 +22,6 @@ added as they're finished.
 | **[Impressions](books/impressions.md)** | A horror told in six voices that are secretly one — a language model showing you exactly what it is. |
 | **[The Cold Halloo](books/the-cold-halloo.md)** | A spy who defected to her enemies forty years ago is dragged back into the field at seventy-two to identify the one mole she trained — because she alone knows the tell she taught them, and it's now showing on a sitting prime minister. |
 | **[The Long Loft](books/the-long-loft.md)** | In a dying Flemish coal town in 1994, a fifteen-year-old inherits her grandfather's champion racing pigeons — and his secret: the old man rigged the greatest race in the region's history, and now the men he cheated want either the money or the birds. |
+| **[Anna of the Nine Bends](books/anna-of-the-nine-bends.md)** | In 1936, a river pilot who reads the water by ear and a deaf engineer sent to dismantle her valley's locks fall in love the summer a federal dam is set to drown everything she knows — and find the government has left some of the valley's dead uncounted, to go under with the rest. |
 
-_16 novels and counting. Each file is the full text; the production projects (planning, drafts, continuity) live elsewhere — this repo holds only the finished books._
+_17 novels and counting. Each file is the full text; the production projects (planning, drafts, continuity) live elsewhere — this repo holds only the finished books._
